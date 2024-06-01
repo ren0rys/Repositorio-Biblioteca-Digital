@@ -1,5 +1,8 @@
 import java.util.*;
-
+/**
+ * Clase principal BibliotecaDigital que representa la aplicación de biblioteca digital.
+ * Proporciona funcionalidades para registrar usuarios, iniciar sesión, y gestionar recursos digitales.
+ */
 public class BibliotecaDigital {
     public static void main(String[] args) {
         UserManager userManager = new UserManager();
