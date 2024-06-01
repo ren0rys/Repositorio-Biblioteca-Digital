@@ -1,3 +1,6 @@
+/**Este archivo contiene el main, o bien la función principal del programa, 
+donde se llaman a las clases necesarias para el funcionamiento correcto del programa.
+Se importa todo el contenido de */
 import java.util.*;
 
 public class BibliotecaDigital {
